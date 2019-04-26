@@ -1,0 +1,17 @@
+{
+    "name": "braghim-sistemas/skeleton",
+    "description": "Skeleton project for Suitup 2.0",
+    "type": "project",
+    "require": {
+	"php": ">=7.2",
+        "braghim-sistemas/suitup-php": "dev-version2.0"
+    },
+    "license": "MIT",
+    "authors": [
+	{
+            "name": "Braghim Sistemas",
+            "email": "marco.a.braghim@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
